@@ -65,44 +65,32 @@ I like turning mathematical ideas into working software, from geometric solvers 
 
 ### Featured projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+<p>
   <a href="https://github.com/YushiPy/TouringPolygons">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?hide_border=true&amp;username=YushiPy&amp;repo=TouringPolygons&amp;theme=github_dark&amp;border_color=30363d" />
-      <img width="100%" alt="TouringPolygons repository" src="https://github-stats-extended.vercel.app/api/pin/?hide_border=true&amp;username=YushiPy&amp;repo=TouringPolygons" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=YushiPy&amp;repo=TouringPolygons&amp;card_width=400&amp;description_lines_count=2&amp;disable_animations=true&amp;theme=github_dark&amp;border_color=30363d" />
+      <img width="48%" alt="TouringPolygons repository" src="https://github-stats-extended.vercel.app/api/pin/?username=YushiPy&amp;repo=TouringPolygons&amp;card_width=400&amp;description_lines_count=2&amp;disable_animations=true" />
     </picture>
   </a>
-    </td>
-    <td width="50%" valign="top">
   <a href="https://github.com/out-of-sample/Quant-AI-Itau-2026">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?hide_border=true&amp;username=out-of-sample&amp;repo=Quant-AI-Itau-2026&amp;theme=github_dark&amp;border_color=30363d" />
-      <img width="100%" alt="SERIEMA: Quant AI Itaú Asset 2026 repository" src="https://github-stats-extended.vercel.app/api/pin/?hide_border=true&amp;username=out-of-sample&amp;repo=Quant-AI-Itau-2026" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=out-of-sample&amp;repo=Quant-AI-Itau-2026&amp;card_width=400&amp;description_lines_count=2&amp;disable_animations=true&amp;theme=github_dark&amp;border_color=30363d" />
+      <img width="48%" alt="SERIEMA: Quant AI Itaú Asset 2026 repository" src="https://github-stats-extended.vercel.app/api/pin/?username=out-of-sample&amp;repo=Quant-AI-Itau-2026&amp;card_width=400&amp;description_lines_count=2&amp;disable_animations=true" />
     </picture>
   </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
   <a href="https://github.com/Morad-IA/Morad.IA">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?hide_border=true&amp;username=Morad-IA&amp;repo=Morad.IA&amp;theme=github_dark&amp;border_color=30363d" />
-      <img width="100%" alt="Morad.IA repository" src="https://github-stats-extended.vercel.app/api/pin/?hide_border=true&amp;username=Morad-IA&amp;repo=Morad.IA" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Morad-IA&amp;repo=Morad.IA&amp;card_width=400&amp;description_lines_count=2&amp;disable_animations=true&amp;theme=github_dark&amp;border_color=30363d" />
+      <img width="48%" alt="Morad.IA repository" src="https://github-stats-extended.vercel.app/api/pin/?username=Morad-IA&amp;repo=Morad.IA&amp;card_width=400&amp;description_lines_count=2&amp;disable_animations=true" />
     </picture>
   </a>
-    </td>
-    <td width="50%" valign="top">
   <a href="https://github.com/lucas-santt/coup-online">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?hide_border=true&amp;username=lucas-santt&amp;repo=coup-online&amp;theme=github_dark&amp;border_color=30363d" />
-      <img width="100%" alt="Coup Online repository" src="https://github-stats-extended.vercel.app/api/pin/?hide_border=true&amp;username=lucas-santt&amp;repo=coup-online" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=lucas-santt&amp;repo=coup-online&amp;card_width=400&amp;description_lines_count=2&amp;disable_animations=true&amp;theme=github_dark&amp;border_color=30363d" />
+      <img width="48%" alt="Coup Online repository" src="https://github-stats-extended.vercel.app/api/pin/?username=lucas-santt&amp;repo=coup-online&amp;card_width=400&amp;description_lines_count=2&amp;disable_animations=true" />
     </picture>
   </a>
-    </td>
-  </tr>
-</table>
+</p>
 
 - **TouringPolygons:** geometric optimization solvers and interactive research tools.
 - **SERIEMA:** rainfall-driven quantitative research; our team placed in the **top 5%** of Quant AI Itaú Asset 2026.
