@@ -49,8 +49,8 @@ I like turning mathematical ideas into working software, from geometric solvers 
 <p>
   <a href="https://github.com/YushiPy?tab=overview">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=YushiPy&amp;show_icons=true&amp;theme=github_dark&amp;hide_rank=true&amp;custom_title=GitHub%20activity&amp;disable_animations=true&amp;border_color=30363d" />
-      <img height="170" alt="Gabriel's GitHub activity" src="https://github-stats-extended.vercel.app/api?username=YushiPy&amp;show_icons=true&amp;hide_rank=true&amp;custom_title=GitHub%20activity&amp;disable_animations=true" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=YushiPy&amp;show_icons=true&amp;theme=github_dark&amp;hide_rank=false&amp;custom_title=GitHub%20activity&amp;disable_animations=true&amp;border_color=30363d" />
+      <img height="170" alt="Gabriel's GitHub activity" src="https://github-stats-extended.vercel.app/api?username=YushiPy&amp;show_icons=true&amp;hide_rank=false&amp;custom_title=GitHub%20activity&amp;disable_animations=true" />
     </picture>
   </a>
   <a href="https://github.com/YushiPy?tab=repositories">
