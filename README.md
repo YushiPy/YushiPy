@@ -47,18 +47,8 @@ I like turning mathematical ideas into working software, from geometric solvers 
 ### GitHub stats
 
 <p>
-  <a href="https://github.com/YushiPy?tab=overview">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=YushiPy&amp;show_icons=true&amp;theme=github_dark&amp;hide_rank=false&amp;custom_title=GitHub%20activity&amp;disable_animations=true&amp;border_color=30363d" />
-      <img height="170" alt="Gabriel's GitHub activity" src="https://github-stats-extended.vercel.app/api?username=YushiPy&amp;show_icons=true&amp;hide_rank=false&amp;custom_title=GitHub%20activity&amp;disable_animations=true" />
-    </picture>
-  </a>
-  <a href="https://github.com/YushiPy?tab=repositories">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=YushiPy&amp;layout=compact&amp;langs_count=6&amp;theme=github_dark&amp;disable_animations=true&amp;border_color=30363d" />
-      <img height="170" alt="Languages in Gabriel's public repositories" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YushiPy&amp;layout=compact&amp;langs_count=6&amp;disable_animations=true" />
-    </picture>
-  </a>
+  <a href="https://github.com/YushiPy?tab=overview"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=YushiPy&amp;show_icons=true&amp;theme=github_dark&amp;hide_rank=false&amp;custom_title=GitHub%20activity&amp;disable_animations=true&amp;border_color=30363d" /><img height="170" alt="Gabriel's GitHub activity" src="https://github-stats-extended.vercel.app/api?username=YushiPy&amp;show_icons=true&amp;hide_rank=false&amp;custom_title=GitHub%20activity&amp;disable_animations=true" /></picture></a>
+  <a href="https://github.com/YushiPy?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=YushiPy&amp;layout=compact&amp;langs_count=6&amp;theme=github_dark&amp;disable_animations=true&amp;border_color=30363d" /><img height="170" alt="Languages in Gabriel's public repositories" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YushiPy&amp;layout=compact&amp;langs_count=6&amp;disable_animations=true" /></picture></a>
 </p>
 
 <sub>Language statistics reflect code in public repositories, not proficiency.</sub>
@@ -66,30 +56,10 @@ I like turning mathematical ideas into working software, from geometric solvers 
 ### Featured projects
 
 <p>
-  <a href="https://github.com/YushiPy/TouringPolygons">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=YushiPy&amp;repo=TouringPolygons&amp;card_width=400&amp;description_lines_count=2&amp;disable_animations=true&amp;theme=github_dark&amp;border_color=30363d" />
-      <img width="48%" alt="TouringPolygons repository" src="https://github-stats-extended.vercel.app/api/pin/?username=YushiPy&amp;repo=TouringPolygons&amp;card_width=400&amp;description_lines_count=2&amp;disable_animations=true" />
-    </picture>
-  </a>
-  <a href="https://github.com/out-of-sample/Quant-AI-Itau-2026">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=out-of-sample&amp;repo=Quant-AI-Itau-2026&amp;card_width=400&amp;description_lines_count=2&amp;disable_animations=true&amp;theme=github_dark&amp;border_color=30363d" />
-      <img width="48%" alt="SERIEMA: Quant AI Itaú Asset 2026 repository" src="https://github-stats-extended.vercel.app/api/pin/?username=out-of-sample&amp;repo=Quant-AI-Itau-2026&amp;card_width=400&amp;description_lines_count=2&amp;disable_animations=true" />
-    </picture>
-  </a>
-  <a href="https://github.com/Morad-IA/Morad.IA">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Morad-IA&amp;repo=Morad.IA&amp;card_width=400&amp;description_lines_count=2&amp;disable_animations=true&amp;theme=github_dark&amp;border_color=30363d" />
-      <img width="48%" alt="Morad.IA repository" src="https://github-stats-extended.vercel.app/api/pin/?username=Morad-IA&amp;repo=Morad.IA&amp;card_width=400&amp;description_lines_count=2&amp;disable_animations=true" />
-    </picture>
-  </a>
-  <a href="https://github.com/lucas-santt/coup-online">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=lucas-santt&amp;repo=coup-online&amp;card_width=400&amp;description_lines_count=2&amp;disable_animations=true&amp;theme=github_dark&amp;border_color=30363d" />
-      <img width="48%" alt="Coup Online repository" src="https://github-stats-extended.vercel.app/api/pin/?username=lucas-santt&amp;repo=coup-online&amp;card_width=400&amp;description_lines_count=2&amp;disable_animations=true" />
-    </picture>
-  </a>
+  <a href="https://github.com/YushiPy/TouringPolygons"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=YushiPy&amp;repo=TouringPolygons&amp;card_width=400&amp;description_lines_count=2&amp;disable_animations=true&amp;theme=github_dark&amp;border_color=30363d" /><img width="48%" alt="TouringPolygons repository" src="https://github-stats-extended.vercel.app/api/pin/?username=YushiPy&amp;repo=TouringPolygons&amp;card_width=400&amp;description_lines_count=2&amp;disable_animations=true" /></picture></a>
+  <a href="https://github.com/out-of-sample/Quant-AI-Itau-2026"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=out-of-sample&amp;repo=Quant-AI-Itau-2026&amp;card_width=400&amp;description_lines_count=2&amp;disable_animations=true&amp;theme=github_dark&amp;border_color=30363d" /><img width="48%" alt="SERIEMA: Quant AI Itaú Asset 2026 repository" src="https://github-stats-extended.vercel.app/api/pin/?username=out-of-sample&amp;repo=Quant-AI-Itau-2026&amp;card_width=400&amp;description_lines_count=2&amp;disable_animations=true" /></picture></a>
+  <a href="https://github.com/Morad-IA/Morad.IA"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Morad-IA&amp;repo=Morad.IA&amp;card_width=400&amp;description_lines_count=2&amp;disable_animations=true&amp;theme=github_dark&amp;border_color=30363d" /><img width="48%" alt="Morad.IA repository" src="https://github-stats-extended.vercel.app/api/pin/?username=Morad-IA&amp;repo=Morad.IA&amp;card_width=400&amp;description_lines_count=2&amp;disable_animations=true" /></picture></a>
+  <a href="https://github.com/lucas-santt/coup-online"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=lucas-santt&amp;repo=coup-online&amp;card_width=400&amp;description_lines_count=2&amp;disable_animations=true&amp;theme=github_dark&amp;border_color=30363d" /><img width="48%" alt="Coup Online repository" src="https://github-stats-extended.vercel.app/api/pin/?username=lucas-santt&amp;repo=coup-online&amp;card_width=400&amp;description_lines_count=2&amp;disable_animations=true" /></picture></a>
 </p>
 
 - **TouringPolygons:** geometric optimization solvers and interactive research tools.
